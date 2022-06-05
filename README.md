@@ -5,3 +5,4 @@
 * [`main` git log](notes/final_log_branch_main.md)
 * [`branch-with-line-number-one` git log](notes/final_log_branch_one.md)
 * [`branch-with-line-number-two` git log](notes/final_log_branch_two.md)
+* [Full Notes](notes/full_notes.md)
