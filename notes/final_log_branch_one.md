@@ -1,3 +1,4 @@
+```
 PS C:\Users\Bruce\Programming\git-fetch--git-merge--example> git checkout branch-with-line-number-one
 Switched to branch 'branch-with-line-number-one'
 Your branch is up to date with 'origin/branch-with-line-number-one'.
@@ -34,3 +35,4 @@ Author: Bruce Stull <bruce.stull@gmail.com>
 Date:   Sun Jun 5 03:34:10 2022 -0400
 
     first commit
+```

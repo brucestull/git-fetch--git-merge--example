@@ -1,3 +1,4 @@
+```
 PS C:\Users\Bruce\Programming\git-fetch--git-merge--example> git branch
   branch-with-line-number-one
   branch-with-line-number-two
@@ -64,3 +65,4 @@ Author: Bruce Stull <bruce.stull@gmail.com>
 Date:   Sun Jun 5 03:34:10 2022 -0400
 
     first commit
+```
